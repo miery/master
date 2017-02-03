@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SCiO App</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_discover">DiscoverActivity</string>
+    <string name="title_activity_collection">CollectionActivity</string>
+    <string name="title_activity_model">ModelActivity</string>
+    <string name="select_model_title">Select Model</string>
+</resources>
